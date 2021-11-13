@@ -1,2 +1,2 @@
 # freelancer-web
-https://app.netlify.com/sites/freelancer-projecte1/overview
+https://freelancer-projecte1.netlify.app/
